@@ -1,0 +1,9 @@
+* {
+    background-image: linear-gradient(to right, #ffefba, #ffffff);
+    font-family: Arial, Helvetica, sans-serif;
+    color: #283747;
+}
+
+img {
+    border-radius: 10px;
+}
